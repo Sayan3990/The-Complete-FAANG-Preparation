@@ -50,9 +50,9 @@
 [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 [![Views on my Channel](https://img.shields.io/youtube/channel/views/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
-![Issues Open](https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=green&logo=github)
+![Issues Open](https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Issues Close](https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github)
-![Open PRs](https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=green&logo=github)
+![Open PRs](https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github)
 ![Close PRs](https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github)
 ![Awesome Contributors](https://img.shields.io/github/contributors/AkashSingh3031/The-Complete-FAANG-Preparation?label=Awesome%20Contributors&style=for-the-badge&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/AkashSingh3031/The-Complete-FAANG-Preparation?style=for-the-badge&logo=github)
@@ -607,7 +607,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://www.linkedin.com/in/akash-singh3031/)** |
 
-## `Awesome Contributors ✨🎉` `58`
+## `Awesome Contributors ✨🎉` `59`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -751,6 +751,8 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/GSAUC3"><img src="https://avatars.githubusercontent.com/u/55054089?v=4" width="100px;" alt=""/><br /><sub><b>GSAUC3</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=GSAUC3" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>   
     
 <td align="center"><a href="https://github.com/iamsinghashutosh"><img src="https://avatars.githubusercontent.com/u/44143541?v=4" width="100px;" alt=""/><br /><sub><b>iamsinghashutosh</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=iamsinghashutosh" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>  
+    
+<td align="center"><a href="https://github.com/Uchiha-Itachi0"><img src="https://avatars.githubusercontent.com/u/86482181?v=4" width="100px;" alt=""/><br /><sub><b>Uchiha-Itachi0</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Uchiha-Itachi0" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> 
 </table>
 
 
