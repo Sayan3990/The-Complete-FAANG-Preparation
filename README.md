@@ -3,13 +3,13 @@
 </p>
 
 <!-- <p align="center">
-    <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif">
-</p><br>  --> 
+    <img src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif"> 
+</p><br>  -->
 
 [![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM-3.png)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
- 
+
 <h1 align='center'>
-    <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Repository_Status.md"> 
+    <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/Repository_Status.md">
         <code> Full Repository Status </code>
     </a>
 </h1>
@@ -26,7 +26,7 @@
 <code>[![Discussion Tab](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/Discussion%20Tab.PNG)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)</code> -->
 
 --- 
-
+ 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
 [![GitHub followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers) 
@@ -74,6 +74,25 @@
 
 # `🏆 The Complete FAANG Preparation 🏆`
 This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions,FAANG Interview questions and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are the C++, Python, and Java.
+
+---
+
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=github&utm_medium=faang_prep">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450"  alt="Simplify">
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+---
 
 ## `Table of Contents 📋`
 | SNo. | **Contents** |
@@ -606,7 +625,7 @@ This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Lo
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **[Akash Singh](https://www.linkedin.com/in/akash-singh3031/)** |
 
-## `Awesome Contributors ✨🎉` `59`
+## `Awesome Contributors` ✨🎉 `61`
 
 Thanks goes to these **Wonderful People** 👨🏻‍💻:       
 
@@ -752,6 +771,12 @@ Thanks goes to these **Wonderful People** 👨🏻‍💻:
 <td align="center"><a href="https://github.com/iamsinghashutosh"><img src="https://avatars.githubusercontent.com/u/44143541?v=4" width="100px;" alt=""/><br /><sub><b>iamsinghashutosh</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=iamsinghashutosh" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>  
     
 <td align="center"><a href="https://github.com/Uchiha-Itachi0"><img src="https://avatars.githubusercontent.com/u/86482181?v=4" width="100px;" alt=""/><br /><sub><b>Uchiha-Itachi0</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=Uchiha-Itachi0" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td> 
+    
+<td align="center"><a href="https://github.com/yan-michael"><img src="https://avatars.githubusercontent.com/u/15942983?v=4" width="100px;" alt=""/><br /><sub><b>yan-michael</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=yan-michael" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>     
+    
+<!-- 11th Row -->    
+<tr>     
+<td align="center"><a href="https://github.com/abhistark007"><img src="https://avatars.githubusercontent.com/u/58290134?v=4" width="100px;" alt=""/><br /><sub><b>abhistark007</b></sub></a><br /><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits?author=abhistark007" title="Commits">💻</a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors" title="Contribution Graph">✍️</a></td>
 </table>
 
 
