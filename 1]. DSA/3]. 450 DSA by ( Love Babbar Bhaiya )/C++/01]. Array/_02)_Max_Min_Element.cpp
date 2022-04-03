@@ -1,59 +1,46 @@
-#include <iostream>
+/*
+Example 1:
+	Input:
+		N = 6
+		A[] = {3, 2, 1, 56, 10000, 167}
+	Output:
+		min = 1, max =  10000
+ 
+Example 2:
+	Input:
+		N = 5
+		A[]  = {1, 345, 234, 21, 56789}
+	Output:
+		min = 1, max = 56789
+*/
+
+#include <bits/stdc++.h>
 using namespace std;
+#define ll long long
 
-struct Pair 
-{
-    int min, max;
-};
-
-struct Pair getMinMax(int arr[], int low, int high)
-{
-    struct Pair minmax, minmaxLeft, minmaxRight;
-    int mid;
-    
-    if(low == high)
-    {
-        minmax.min = arr[low];
-        minmax.max = arr[high];
-        return minmax;
+pair<long long, long long> getMinMax(long long a[], int n) {
+    long long mn = a[0], mx = a[0];
+    for(int i=0; i<n; i++) {
+        if(a[i] > mx)
+            mx = a[i];
+        else if(a[i] < mn)
+            mn = a[i];
     }
-    
-    if(high == low+1)
-    {
-        if(arr[low] < arr[high])
-        {
-            minmax.min = arr[low];
-            minmax.max = arr[high];
-        }
-        else
-        {
-            minmax.min = arr[high];
-            minmax.max = arr[low];
-        }
-        return minmax;
-    }
-    
-    mid = (low+high)/2;
-    minmaxLeft = getMinMax(arr, low, mid);
-    minmaxRight = getMinMax(arr, mid+1, high);
-    
-    if(minmaxLeft.min < minmaxRight.min)
-        minmax.min = minmaxLeft.min;
-    else
-        minmax.min = minmaxRight.min;
-    
-    if(minmaxLeft.max > minmaxRight.max)
-        minmax.max = minmaxLeft.max;
-    else
-        minmax.max = minmaxRight.max;
-        
-    return minmax;
+    return {mn, mx};
 }
 
 int main() {
-    int arr[] = {1, 2, 3, 4, 5, 9}, arr_size = 6;
-    struct Pair minmax = getMinMax(arr, 0, arr_size-1);
-    cout<<"Minimum Element: "<<minmax.min<<endl;
-    cout<<"Maximum Element: "<<minmax.max;
-	return 0;
+    int t;
+    cin >> t;
+    while (t--) {
+        int n;
+        cin >> n;
+        ll a[n];
+        for (int i = 0; i < n; i++) cin >> a[i];
+
+        pair<ll, ll> pp = getMinMax(a, n);
+
+        cout << pp.first << " " << pp.second << endl;
+    }
+    return 0;
 }
